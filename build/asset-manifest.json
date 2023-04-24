@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio.camelo.dev.br/static/css/main.2de4a229.css",
+    "main.js": "/portfolio.camelo.dev.br/static/js/main.d3e4d5c6.js",
+    "static/media/gabriel-camelo-resume.pdf": "/portfolio.camelo.dev.br/static/media/gabriel-camelo-resume.422151dcfe68e95da7c5.pdf",
+    "static/media/aboutme.jpeg": "/portfolio.camelo.dev.br/static/media/aboutme.763cb9cfc4e77e88667d.jpeg",
+    "index.html": "/portfolio.camelo.dev.br/index.html",
+    "static/media/close.svg": "/portfolio.camelo.dev.br/static/media/close.313a8e6ce95e72014ca00fb56d8b3ff3.svg",
+    "static/media/open.svg": "/portfolio.camelo.dev.br/static/media/open.196e865822b06a50385b031f9913c3a0.svg",
+    "static/media/logo.svg": "/portfolio.camelo.dev.br/static/media/logo.4f5b0c855c532719bee1003e31956e7c.svg",
+    "main.2de4a229.css.map": "/portfolio.camelo.dev.br/static/css/main.2de4a229.css.map",
+    "main.d3e4d5c6.js.map": "/portfolio.camelo.dev.br/static/js/main.d3e4d5c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2de4a229.css",
+    "static/js/main.d3e4d5c6.js"
+  ]
+}
